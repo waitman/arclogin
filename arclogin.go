@@ -1,7 +1,7 @@
 /*
 	arclogin [username] [password]
 
-Copyright (c) <YEAR>, <OWNER>
+Copyright (c) 2014, Waitman Gobble <ns@waitman.net>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
