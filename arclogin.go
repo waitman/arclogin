@@ -122,3 +122,4 @@ func main() {
 	f.Sync()
 	fmt.Println("Auth cookie retrieved and saved.")
 }
+//EOF
